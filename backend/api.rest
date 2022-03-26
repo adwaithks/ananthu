@@ -1,0 +1,6 @@
+GET http://localhost:5500/poststats 
+
+###
+
+GET http://localhost:5500/getstats 
+ 
